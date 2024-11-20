@@ -3,6 +3,7 @@
     {
       "orderNumber": 54321,
       "orderDate": "2024-11-18",
+      "orderStatus": "shipped",
       "courier": "DHL",
       "items": [
         {
