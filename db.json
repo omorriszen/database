@@ -1,0 +1,28 @@
+{
+  "orderNumber": 54321,
+  "orderDate": "2024-11-18",
+  "courier": "DHL",
+  "items": [
+    {
+      "item": 1,
+      "quantity": 1,
+      "author": "Susan Taylor-Leduc",
+      "title": "Marie-Antoinettes Legacy",
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9789048552634/resource/name/9789048552634i.jpg"
+    },
+    {
+      "item": 2,
+      "quantity": 1,
+      "author": "Linda J. Cook",
+      "title": "Welfare Nationalism in Europe and Russia",
+      "url": "https://assets.cambridge.org/97811088/35664/cover/9781108835664.jpg"
+    },
+    {
+      "item": 3,
+      "quantity": 1,
+      "author": "Renato Rodrigues da Silva",
+      "title": "The Anglo-Saxon Elite",
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9789048551088/resource/name/9789048551088i.jpg"
+    }
+  ]
+}
