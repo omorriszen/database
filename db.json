@@ -9,6 +9,7 @@
         {
           "item": 1,
           "quantity": 1,
+          "returnPolicy": "Refunds for correctly delivered and undamaged items are available within 14 days of the goods receipt. The return label will be in the box that the book is delivered in.",
           "author": "Susan Taylor-Leduc",
           "title": "Marie-Antoinettes Legacy",
           "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9789048552634/resource/name/9789048552634i.jpg"
@@ -16,6 +17,7 @@
         {
           "item": 2,
           "quantity": 1,
+          "returnPolicy": "Refunds for correctly delivered and undamaged items are available within 14 days of the goods receipt. The return label will be in the box that the book is delivered in.",
           "author": "Linda J. Cook",
           "title": "Welfare Nationalism in Europe and Russia",
           "url": "https://assets.cambridge.org/97811088/35664/cover/9781108835664.jpg"
@@ -23,6 +25,7 @@
         {
           "item": 3,
           "quantity": 1,
+          "returnPolicy": "This book is not eligible for Refund due to personalisation/added message by the author",
           "author": "Renato Rodrigues da Silva",
           "title": "The Anglo-Saxon Elite",
           "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9789048551088/resource/name/9789048551088i.jpg"
