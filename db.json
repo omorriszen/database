@@ -3,12 +3,12 @@
     {
       "orderNumber": 54321,
       "orderDate": "2024-11-18",
-      "card": "3553",
-      "cardType": "visa",
       "items": [
         {
           "item": 1,
           "price": "5 GBP",
+          "cardNumber": "3553",
+          "cardType": "visa",
           "info": "12.03.25 20:00 | 1 ticket",
           "title": "Bridget Jones: Mad About The Boy",
           "url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/taEVBdVSqYo9YeN3ycw2SosklZL.jpg"
