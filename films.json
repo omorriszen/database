@@ -1,30 +1,33 @@
-[
-  {
-    "orderNumber": 54321,
-    "orderDate": "2024-11-18",
-    "orderStatus": "paid",
-    "items": [
-      {
-        "item": 1,
-        "price": "5 GBP",
-        "info": "12.03.25 20:00 x1",
-        "title": "Bridget Jones: Mad About The Boy",
-        "url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/taEVBdVSqYo9YeN3ycw2SosklZL.jpg"
-      },
-      {
-        "item": 2,
-        "price": "7 GBP",
-        "info": "20.03.25 20:00 x1",
-        "title": "Mickey 17",
-        "url": "https://image.tmdb.org/t/p/original/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg"
-      },
-      {
-        "item": 3,
-        "price": "8 GBP",
-        "info": "29.03.25 21:15 x1",
-        "title": "Imagine Dragons: Live from the Hollywood Bowl",
-        "url": "https://catalog.cinema-api.com/cf/images/ncg-images/8f284d4bdc484219856affcd8792009c.jpg?version=F680B28363EFFB5BC5CA8C8F8FE4B528"
-      }
-    ]
-  }
-]
+{
+  "films": [
+    {
+      "id": 1,
+      "orderNumber": 54321,
+      "orderDate": "2024-11-18",
+      "orderStatus": "paid",
+      "items": [
+        {
+          "item": 1,
+          "price": "5 GBP",
+          "info": "12.03.25 20:00 x1",
+          "title": "Bridget Jones: Mad About The Boy",
+          "url": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/taEVBdVSqYo9YeN3ycw2SosklZL.jpg"
+        },
+        {
+          "item": 2,
+          "price": "7 GBP",
+          "info": "20.03.25 20:00 x1",
+          "title": "Mickey 17",
+          "url": "https://image.tmdb.org/t/p/original/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg"
+        },
+        {
+          "item": 3,
+          "price": "8 GBP",
+          "info": "29.03.25 21:15 x1",
+          "title": "Imagine Dragons: Live from the Hollywood Bowl",
+          "url": "https://catalog.cinema-api.com/cf/images/ncg-images/8f284d4bdc484219856affcd8792009c.jpg?version=F680B28363EFFB5BC5CA8C8F8FE4B528"
+        }
+      ]
+    }
+  ]
+}
