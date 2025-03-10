@@ -5,7 +5,7 @@
       "orderDate": "2024-11-18",
       "orderStatus": "paid",
       "card": "x3553",
-      "card Type": "visa",
+      "cardType": "visa",
       "items": [
         {
           "item": 1,
