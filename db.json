@@ -16,6 +16,8 @@
         {
           "item": 2,
           "price": "7 GBP",
+          "cardNumber": "3553",
+          "cardType": "visa",
           "info": "20.03.25 20:00 | 1 ticket",
           "title": "Mickey 17",
           "url": "https://image.tmdb.org/t/p/original/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg"
@@ -23,6 +25,8 @@
         {
           "item": 3,
           "price": "8 GBP",
+          "cardNumber": "3553",
+          "cardType": "visa",
           "info": "29.03.25 21:15 | 1 ticket",
           "title": "Imagine Dragons: Live from the Hollywood Bowl",
           "url": "https://catalog.cinema-api.com/cf/images/ncg-images/8f284d4bdc484219856affcd8792009c.jpg?version=F680B28363EFFB5BC5CA8C8F8FE4B528"
