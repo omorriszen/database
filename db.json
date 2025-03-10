@@ -3,7 +3,7 @@
     {
       "orderNumber": 54321,
       "orderDate": "2024-11-18",
-      "cardNumber": "-3553",
+      "card": "3553",
       "cardType": "visa",
       "items": [
         {
