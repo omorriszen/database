@@ -4,7 +4,7 @@
       "orderNumber": 54321,
       "orderDate": "2024-11-18",
       "orderStatus": "paid",
-      "cardNumber": x3553,
+      "cardNumber": "x3553",
       "cardType": "visa",
       "items": [
         {
