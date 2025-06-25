@@ -1,7 +1,8 @@
 {
-  "data": [
+  "users": [
     {
       "idNumber": 12345,
+      "name": "Carol Foster",
       "items": [
         {
           "item": 1,
@@ -26,8 +27,5 @@
         }
       ]
     }
-  ],
-  "requestParameters": {
-    "idNumber": 12345
-  }
+  ]
 }
