@@ -5,7 +5,7 @@
       "name": "Carol Foster",
       "items": [
         {
-          "item": 1
+          "item": 1,
           "quantity": 1,
           "service": "Tableau",
           "status": "processing",
